@@ -1,5 +1,6 @@
 # folders
 _ignore/
+hddm/ignore-this-folder/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
